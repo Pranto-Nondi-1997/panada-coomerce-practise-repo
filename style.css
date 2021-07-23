@@ -18,3 +18,23 @@
 
 
 /* section 2 start here */
+
+
+/* section 3 start here */
+
+.card-shadow {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+
+/* section 4 starts here */
+
+.subscribe-size {
+    height: 240px;
+}
+
+.subscribe-bg {
+    background-color: #FCEAE8;
+}
